@@ -1,4 +1,4 @@
-## Returns the inverse of a matrix and stores the result to cache. 
+## Returns the inverse of a matrix and stores the result to cache.  
 ## If the inverse has been calculated before, it is loaded from cache instead of recalculating
 
 
